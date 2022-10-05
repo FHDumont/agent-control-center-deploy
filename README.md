@@ -30,4 +30,4 @@ Será criada a tarefa do ansible que está preparado para fazer a atualização 
 
 ![03](https://github.com/FHDumont/agent-control-center-deploy/blob/main/images/03.tasks.png?raw=true)
 
-![04](https://github.com/FHDumont/agent-control-center-deploy/blob/main/images/04.health?raw=true)
+![04](https://github.com/FHDumont/agent-control-center-deploy/blob/main/images/04.health.png?raw=true)
